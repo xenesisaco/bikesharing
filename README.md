@@ -3,6 +3,10 @@
 ##Overview 
 Trying to start a new company is always difficult especially when looking for investors. One way to attract investors is to come up with a well thought out business plan and be able to present findings in a neat and clear way. This analysis did just that! By analyzing targets from time / day of the week, gender and nearby tourist attractions, analyzing and visualizing a viable company can be possible. 
 
+The following results can be viewed here : [link to dashboard](https://public.tableau.com/app/profile/genesis.acosta/viz/BikeSharing_16533487317580/BikeShareOpportunity)
+
+
+
 ## Results:
 First, we must analyze the type of user we are targeting, if it is either a long-term subscriber or a short-term customer. According to the graph below, the majority of the users are subscribers, at 81%. 
 
